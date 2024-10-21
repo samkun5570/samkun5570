@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,javascript,java,kotlin,iot,android
 - 🌱 I’m currently learning python,javascript,java,kotlin,iot,android
 - 💞️ I’m looking to collaborate on python,javascript,java,kotlin,iot,android
-- 📫 How to reach me ...
+- 📫 How to reach me samirdey5570@gmail.com
 
 <!---
 samkun5570/samkun5570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
